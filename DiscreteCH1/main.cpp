@@ -1,6 +1,7 @@
 #include <iostream>
 #include "problemOne.h"
 #include "problemTwo.h"
+#include "problemThree.h"
 
 
 int main() {
