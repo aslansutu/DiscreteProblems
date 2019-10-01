@@ -1,0 +1,5 @@
+﻿  main.cpp
+  problemTwo.cpp
+C:\Dev\cpp\DiscreteCH1\DiscreteCH1\main.cpp(23,3): error C3861: 'problemThree': identifier not found
+  Generating Code...
+C:\Dev\cpp\DiscreteCH1\DiscreteCH1\problemTwo.cpp(68,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
